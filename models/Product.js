@@ -35,6 +35,7 @@ Product.init(
         isInt: true
       }
     }
+    //FK
   },
   {
     sequelize,
